@@ -4,13 +4,12 @@ import Header from "./cvhome/header";
 import Objective from "./cvhome/objective";
 import Experience from "./cvhome/Experience";
 import Academic from "./cvhome/academic";
+import ResponsiveDrawer from "./cvhome/sidenav";
 function App() {
   return (
     <div className="App">
-        <Header></Header>
-        <Objective></Objective>
-        <Experience></Experience>
-        <Academic></Academic>
+        <ResponsiveDrawer></ResponsiveDrawer>
+        {/*<Header></Header>*/}
     </div>
   );
 }
