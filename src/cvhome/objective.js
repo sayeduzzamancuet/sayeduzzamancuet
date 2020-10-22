@@ -28,7 +28,8 @@ function Objective(){
                             Objective
                         </Typography>
                         <Typography variant="body1" color="textPrimary" component="p">
-                            I am looking for a better opportunity that will allow me to show my skills in software industries and help me to grow as an industry standard professional software developer. I believe hardworking with responsibility is the key of professionalism.
+                            I am an individual with ability to follow established procedures and work under minimum or no supervision. Looking to obtain the job of Software Developer at your company.
+                            Being a full stack developer I strongly believe I have the capabilities to add values to the business.
                         </Typography>
                     </CardContent>
             </Card>
