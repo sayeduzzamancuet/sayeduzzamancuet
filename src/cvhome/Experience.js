@@ -1,7 +1,5 @@
 import React from "react"
-import Box from "@material-ui/core/Box";
 import { makeStyles, createStyles, Theme } from '@material-ui/core/styles';
-import Paper from "@material-ui/core/Paper";
 import Card from "@material-ui/core/Card";
 import CardContent from "@material-ui/core/CardContent";
 import Typography from "@material-ui/core/Typography";
@@ -26,7 +24,8 @@ function Experience(){
                         </Typography>
                         <Typography variant="body1" color="textPrimary" component="p">
                             I have been working as a full stack developer since May 2018. In this period I've got opportunities to work in multiple projects with different architectures and stacks.
-                            MVC, REST API based multi tier application for money transaction are worth mentioning. By following SDLC lifecycle, from requirement analysis to application development and deployment, I have contributed with best practices. Besides, I have also provided technical support and improvement suggestions based on the realtime scenario. Ensuring application security, performance monitoring and designing better solutions are some important parts of my present role.
+                            MVC, REST API based multi tier application for money transaction are worth mentioning. By following SDLC lifecycle, from requirement analysis to application development and deployment, I have contributed with best practices.
+                            Besides, I have also provided technical support and improvement suggestions based on the realtime scenario. Ensuring application security, performance monitoring and designing better solutions are some important parts of my present role.
                         </Typography>
                     </CardContent>
                 </Card>

@@ -1,7 +1,5 @@
 import React from "react"
-import Box from "@material-ui/core/Box";
 import { makeStyles, createStyles, Theme } from '@material-ui/core/styles';
-import Paper from "@material-ui/core/Paper";
 import Card from "@material-ui/core/Card";
 import CardContent from "@material-ui/core/CardContent";
 import Typography from "@material-ui/core/Typography";
@@ -26,7 +24,7 @@ function Projects(){
                                 Projects
                             </Typography>
                             <Typography variant="body1" color="textPrimary" component="p">
-                                I am a self motivated developer. Beside by professional career I have also contributed to a personal real estate project build on asp.net,razor,jquery and javascript stack backed with MSSQL server.
+                                I am a self motivated developer. Along with my professional career I have also contributed to a personal real estate project built on asp.net,razor,jquery and javascript stack backed with MSSQL server.
                             </Typography>
                         </CardContent>
                     </Card>

@@ -8,11 +8,8 @@ import Hidden from '@material-ui/core/Hidden';
 import IconButton from '@material-ui/core/IconButton';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
-import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
 import MailOutlineIcon from '@material-ui/icons/MailOutline';
-import ContactsIcon from '@material-ui/icons/Contacts';
-import CallIcon from '@material-ui/icons/Call';
 import MenuIcon from '@material-ui/icons/Menu';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
@@ -25,19 +22,18 @@ import History from "./history";
 import Projects from "./projects";
 import Avatar from '@material-ui/core/Avatar';
 import Chip from '@material-ui/core/Chip';
-import NodeIcon from './icons/nodejs.svg';
 import JavaIcon from './icons/java.svg';
 import CsharpIcon from './icons/csharp.svg';
 import AngularIcon from './icons/angularjs.svg';
 import ReactIcon from './icons/react.svg';
 import MysqlIcon from './icons/mysql-7.svg';
-import MssqlIcon from './icons/microsoft-sql-server.svg';
 import RoomIcon from '@material-ui/icons/Room';
 import PermPhoneMsgIcon from '@material-ui/icons/PermPhoneMsg';
 import Card from '@material-ui/core/Card';
 import CardActionArea from '@material-ui/core/CardActionArea';
 import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
+import Specialization from "./Specialization";
 
 
 
@@ -123,7 +119,6 @@ function ResponsiveDrawer(props) {
                     <Chip
                         variant="outlined"
                         size="medium"
-                        icon={<Avatar src={NodeIcon} />}
                         label="Nodejs"
                         color="primary"
                     />
@@ -170,7 +165,6 @@ function ResponsiveDrawer(props) {
                     <Chip
                         variant="outlined"
                         size="medium"
-                        icon={<Avatar src={MssqlIcon} />}
                         label="MSSQL"
                         color="primary"
                     />
@@ -236,6 +230,7 @@ function ResponsiveDrawer(props) {
                 <Objective></Objective>
                 <Experience></Experience>
                 <History></History>
+                <Specialization></Specialization>
                 <Projects></Projects>
                 <Academic></Academic>
             </main>
