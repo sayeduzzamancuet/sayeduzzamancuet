@@ -33,7 +33,6 @@ function Academic(){
                             <div style={{ height: 350, width: '100%' }}>
                                 <DataGrid
                                     columns={[
-                                        {field: 'id'},
                                         { field: 'Examination',width: 450},
                                         {field: 'Year'},
                                         {field: 'Institute',width: 400},
