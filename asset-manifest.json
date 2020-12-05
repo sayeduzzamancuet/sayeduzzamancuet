@@ -1,23 +1,28 @@
 {
   "files": {
     "main.css": "/sayeduzzamancuet/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sayeduzzamancuet/static/js/main.269110e7.chunk.js",
-    "main.js.map": "/sayeduzzamancuet/static/js/main.269110e7.chunk.js.map",
+    "main.js": "/sayeduzzamancuet/static/js/main.36a79b73.chunk.js",
+    "main.js.map": "/sayeduzzamancuet/static/js/main.36a79b73.chunk.js.map",
     "runtime-main.js": "/sayeduzzamancuet/static/js/runtime-main.5479e89f.js",
     "runtime-main.js.map": "/sayeduzzamancuet/static/js/runtime-main.5479e89f.js.map",
-    "static/js/2.41ad1457.chunk.js": "/sayeduzzamancuet/static/js/2.41ad1457.chunk.js",
-    "static/js/2.41ad1457.chunk.js.map": "/sayeduzzamancuet/static/js/2.41ad1457.chunk.js.map",
+    "static/js/2.472108cd.chunk.js": "/sayeduzzamancuet/static/js/2.472108cd.chunk.js",
+    "static/js/2.472108cd.chunk.js.map": "/sayeduzzamancuet/static/js/2.472108cd.chunk.js.map",
     "index.html": "/sayeduzzamancuet/index.html",
-    "precache-manifest.a8c9817cc6f9292e18720d3ed5c346f6.js": "/sayeduzzamancuet/precache-manifest.a8c9817cc6f9292e18720d3ed5c346f6.js",
+    "precache-manifest.4cf7487a0832679d0b60c157d83b3aee.js": "/sayeduzzamancuet/precache-manifest.4cf7487a0832679d0b60c157d83b3aee.js",
     "service-worker.js": "/sayeduzzamancuet/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/sayeduzzamancuet/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.41ad1457.chunk.js.LICENSE.txt": "/sayeduzzamancuet/static/js/2.41ad1457.chunk.js.LICENSE.txt",
-    "static/media/pp.jpg": "/sayeduzzamancuet/static/media/pp.80a52108.jpg"
+    "static/js/2.472108cd.chunk.js.LICENSE.txt": "/sayeduzzamancuet/static/js/2.472108cd.chunk.js.LICENSE.txt",
+    "static/media/angularjs.svg": "/sayeduzzamancuet/static/media/angularjs.80c44b64.svg",
+    "static/media/csharp.svg": "/sayeduzzamancuet/static/media/csharp.b079bfd2.svg",
+    "static/media/java.svg": "/sayeduzzamancuet/static/media/java.00d7cdd3.svg",
+    "static/media/mysql-7.svg": "/sayeduzzamancuet/static/media/mysql-7.4d466a78.svg",
+    "static/media/pp.jpg": "/sayeduzzamancuet/static/media/pp.80a52108.jpg",
+    "static/media/react.svg": "/sayeduzzamancuet/static/media/react.9603d105.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5479e89f.js",
-    "static/js/2.41ad1457.chunk.js",
+    "static/js/2.472108cd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.269110e7.chunk.js"
+    "static/js/main.36a79b73.chunk.js"
   ]
 }
