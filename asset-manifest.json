@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sayeduzzamancuet/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sayeduzzamancuet/static/js/main.83890e6d.chunk.js",
-    "main.js.map": "/sayeduzzamancuet/static/js/main.83890e6d.chunk.js.map",
+    "main.js": "/sayeduzzamancuet/static/js/main.afb885ce.chunk.js",
+    "main.js.map": "/sayeduzzamancuet/static/js/main.afb885ce.chunk.js.map",
     "runtime-main.js": "/sayeduzzamancuet/static/js/runtime-main.5479e89f.js",
     "runtime-main.js.map": "/sayeduzzamancuet/static/js/runtime-main.5479e89f.js.map",
     "static/js/2.472108cd.chunk.js": "/sayeduzzamancuet/static/js/2.472108cd.chunk.js",
     "static/js/2.472108cd.chunk.js.map": "/sayeduzzamancuet/static/js/2.472108cd.chunk.js.map",
     "index.html": "/sayeduzzamancuet/index.html",
-    "precache-manifest.18d47650b228d47c678bf4a008a8ba3e.js": "/sayeduzzamancuet/precache-manifest.18d47650b228d47c678bf4a008a8ba3e.js",
+    "precache-manifest.2474a8686cb88d6c777470d735350afd.js": "/sayeduzzamancuet/precache-manifest.2474a8686cb88d6c777470d735350afd.js",
     "service-worker.js": "/sayeduzzamancuet/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/sayeduzzamancuet/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.472108cd.chunk.js.LICENSE.txt": "/sayeduzzamancuet/static/js/2.472108cd.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.5479e89f.js",
     "static/js/2.472108cd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.83890e6d.chunk.js"
+    "static/js/main.afb885ce.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e3efddccccaf1e529e065bcd44551232",
+    "revision": "0a85c79a6c4fb4947dc6cb5e52349902",
     "url": "/sayeduzzamancuet/index.html"
   },
   {
-    "revision": "c08c5439112594a0042d",
+    "revision": "e28f2e41cabaf97cfb30",
     "url": "/sayeduzzamancuet/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sayeduzzamancuet/static/js/2.472108cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c08c5439112594a0042d",
-    "url": "/sayeduzzamancuet/static/js/main.83890e6d.chunk.js"
+    "revision": "e28f2e41cabaf97cfb30",
+    "url": "/sayeduzzamancuet/static/js/main.afb885ce.chunk.js"
   },
   {
     "revision": "ac26a2088303a92b5553",

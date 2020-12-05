@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sayeduzzamancuet/precache-manifest.18d47650b228d47c678bf4a008a8ba3e.js"
+  "/sayeduzzamancuet/precache-manifest.2474a8686cb88d6c777470d735350afd.js"
 );
 
 self.addEventListener('message', (event) => {
