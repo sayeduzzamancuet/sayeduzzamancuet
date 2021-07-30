@@ -22,8 +22,7 @@ function Objective(){
                             Objective
                         </Typography>
                         <Typography variant="body1" color="textPrimary" component="p">
-                            I am an individual with ability to follow established procedures and work under minimum or no supervision. Looking to obtain the job of Software Developer at your company.
-                            Being a full stack developer I strongly believe I have the capabilities to add values to your business.
+                        Self motivated developer with ability to follow established procedure and work under little or no supervision. Possess strong capability to develop application using .NET and Java technologies.
                         </Typography>
                     </CardContent>
             </Card>

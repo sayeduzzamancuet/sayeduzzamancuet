@@ -28,12 +28,16 @@ const useStyles = makeStyles((theme: Theme) =>
 );
 function History(){
     const jobRoles=[
-        "Communication/Meeting with client remotely, discuss, develop and document requirement specifications",
-        "Perform r&d, calculate ETA",
-        "Development, testing and collaborate with QA team",
-        "Live deployment and version controlling",
-        "Live server monitoring",
-        "Generate application improvement suggestions"
+        "Communicate with offshore clients, provide project updates, translate their business requirements into technical solution and planning for implementation.",
+        "Writing scalable, reusable code by following OOP concepts, coding standards, framework architectures and best practices.",
+        "Perform development, testing, and live deployment by maintaining SDLC",
+        "Investigate bugs, perform system analysis and provide appropriate fixings",
+        "Monitor live applications using various tools such as Elastic APM, Kibana",
+        " Maintain version control for multiple projects using git/svn",
+        "Collaboration with offshore team remotely",
+        " Provide effective support as a lead developer for multiple projects",
+        "Performance monitoring and optimization when necessary"
+
     ];
 
     const roleItems = jobRoles.map((jobRoles) =>
@@ -53,7 +57,7 @@ function History(){
                     <Card className={classes.root}>
                         <CardContent>
                             <Typography gutterBottom variant="h5" component="h2">
-                                Employment History
+                            Present job Responsibilities
                             </Typography>
                             <Typography variant="body1" color="textPrimary" component="p">
                                 <h3>Oscillosoft Pty Ltd, Dhaka since MAY,2018</h3>
